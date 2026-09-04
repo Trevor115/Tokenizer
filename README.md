@@ -10,7 +10,7 @@ Regex tokenizer with support for:
   contractions,
   URLs,
   email addresses,
-  hyphenated words,
+  hyphenated words
 
 Token statistics (total, unique, frequency)
 
