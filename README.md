@@ -5,12 +5,12 @@ Features
 Whitespace tokenizer
 
 Regex tokenizer with support for:
-  punctuation
-  numbers & decimals
-  contractions
-  URLs
-  email addresses
-  hyphenated words
+  punctuation,
+  numbers & decimals,
+  contractions,
+  URLs,
+  email addresses,
+  hyphenated words,
 
 Token statistics (total, unique, frequency)
 
